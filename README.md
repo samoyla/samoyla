@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,git, linux)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samoyla&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
