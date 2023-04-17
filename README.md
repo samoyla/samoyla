@@ -17,20 +17,28 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://cplusplus.com/">
-    <img height="50" width="50" src="https://imgs.search.brave.com/MnKJ1hECMeP2ktLiLdTg44IXff55Czt-PSa26fmkark/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5T/bWliai1DNUZDXzhO/MHZPa0E5WUd3SGFI/YSZwaWQ9QXBp"/>
-  </a>
-  <a href="https://cplusplus.com/">
-    <img height="50" width="50" src="https://imgs.search.brave.com/0oJMfQqhC_6DOOT3IVkar1gaExJqd4anb0d_nv-G0TM/rs:fit:404:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC53/OUFJT082Q2Z1cDZh/VG9WMUUtZEVRSGFJ/ciZwaWQ9QXBp"/>
+    <img height="50" width="100" src="https://imgs.search.brave.com/xtJcicqmwaj-wyvAZD9m6M7k4-cs2eR9y-BHs8su1ZE/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC41/UndYaW5ORnlBekZq/VWlveUkxZ2ZBSGFF/SyZwaWQ9QXBp"/>
   </a>
   <a href="https://www.vim.org/">
-    <img height="50" width="50" src="https://imgs.search.brave.com/5stUPHaBnws7aXhvGhovZ--mSkFI28MPgwXekVXsxnw/rs:fit:219:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5f/eExsQzhma2dJRDE3/T3FrUHprbVpBQUFB/QSZwaWQ9QXBp"/>
+    <img height="50" width="50" src="https://imgs.search.brave.com/n4s2SxWno00wpWaBF1CpZK-HwNFAj4G6au5t5HRjVdk/rs:fit:600:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5Q/WU56TG5iSnZyYnVq/blJIVlQ1Tm5BSGFG/MiZwaWQ9QXBp"/>
   </a>
   <a href="https://code.visualstudio.com/">
-    <img height="50" width="50" src="https://imgs.search.brave.com/nHoH5D3jA-UFyws1Bg77l_Aif3pzVKk5O7LjTWCS5Vg/rs:fit:476:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC44/bkFWVDR0VG5vZXFW/ajRTY2R6UGl3SGFI/WSZwaWQ9QXBp"/>
+    <img height="50" width="50" src="https://imgs.search.brave.com/BNMMKbPd5ipkbnwz4jj7mHNJ10f-T9f1osm0sWt--P0/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC40/ZXc4ME1fUWFRVE8x/Q1hoU0d0QkNBSGFI/YSZwaWQ9QXBp"/>
   </a>
-</div>
+
 
 - 🌱 I’m currently learning ...
-[![In Progress...](https://skillicons.dev/icons?i=docker,git,linux,java)](https://skillicons.dev)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samoyla&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- <a href="https://www.docker.com/">
+    <img height="50" width="100" src="https://imgs.search.brave.com/9fYVxbiDyIaRagV3zEJohLlrZxHztyktmj420AYVCTA/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5P/bzBTOUE5U24tV29R/bXp5Z3RuUkF3SGFF/SyZwaWQ9QXBp"/>
+  </a>
+   <a href="https://git-scm.com/">
+    <img height="50" width="50" src="https://imgs.search.brave.com/ed9C8_UNjMsNFBLCx5F5kP-9Ee88HG8MWWHbuOiUz5g/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4z/eGF0SWdMeUhuaV9X/aTZtRTVPN2tnSGFI/YSZwaWQ9QXBp"/>
+  </a>
+   <a href="https://dev.java/learn/getting-started/">
+    <img height="50" width="70" src="https://imgs.search.brave.com/KVaY1h8nB1q1S-Pz-8wJQceCuqqM063bURVw6hetBRc/rs:fit:480:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5B/T1lzRU1yd3dlc1JZ/QUdiV202YUpBRXNE/SCZwaWQ9QXBp"/>
+  </a>
+   <a href="https://www.linux.org/">
+    <img height="50" width="50" src="https://imgs.search.brave.com/lCVWAq46eyUw72NTK96IjacM_SATIW2oc4w_rPeLm1c/rs:fit:250:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC52/cGtVNUxLUlV3UVZi/M1U3N3RwczdRQUFB/QSZwaWQ9QXBp"/>
+  </a>
+  
+</div>
