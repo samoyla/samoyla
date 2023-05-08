@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     <img height="50" width="50" src="https://github.com/vveewwee/logos/blob/main/vim.png?raw=true"/>
   </a>
   <a href="https://code.visualstudio.com/">
-    <img height="50" width="50" src="https://imgs.search.brave.com/BNMMKbPd5ipkbnwz4jj7mHNJ10f-T9f1osm0sWt--P0/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC40/ZXc4ME1fUWFRVE8x/Q1hoU0d0QkNBSGFI/YSZwaWQ9QXBp"/>
+    <img height="50" width="50" src="https://banner2.cleanpng.com/20180326/raw/kisspng-visual-studio-code-microsoft-visual-studio-microso-studio-5ab9ba1fa161f2.810855511522121247661.jpg"/>
   </a>
 
 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
     <img height="50" width="50" src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png"/>
   </a>
    <a href="https://dev.java/learn/getting-started/">
-    <img height="50" width="70" src="https://imgs.search.brave.com/KVaY1h8nB1q1S-Pz-8wJQceCuqqM063bURVw6hetBRc/rs:fit:480:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5B/T1lzRU1yd3dlc1JZ/QUdiV202YUpBRXNE/SCZwaWQ9QXBp"/>
+    <img height="50" width="70" src="https://brandslogos.com/wp-content/uploads/images/java-logo-1.png"/>
   </a>
    <a href="https://www.linux.org/">
     <img height="50" width="50" src="https://github.com/vveewwee/logos/blob/main/linux.png?raw=true"/>
