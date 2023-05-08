@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <img height="50" width="50" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo.png"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img height="50" width="50" src="https://banner2.cleanpng.com/20171217/033/letter-c-png-5a36954d474e54.1991877715135266052921.jpg"/>
+    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/c.png?raw=true"/>
   </a>
   <a href="https://www.vim.org/">
     <img height="50" width="50" src="https://github.com/vveewwee/logos/blob/main/vim.png?raw=true"/>
