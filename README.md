@@ -19,6 +19,9 @@ Here are some ideas to get you started:
   <a href="https://cplusplus.com/">
     <img height="50" width="100" src="https://imgs.search.brave.com/xtJcicqmwaj-wyvAZD9m6M7k4-cs2eR9y-BHs8su1ZE/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC41/UndYaW5ORnlBekZq/VWlveUkxZ2ZBSGFF/SyZwaWQ9QXBp"/>
   </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img height="50" width="50" src="https://github.com/vveewwee/logos/blob/main/c%20.png?raw=true"/>
+  </a>
   <a href="https://www.vim.org/">
     <img height="50" width="50" src="https://github.com/vveewwee/logos/blob/main/vim.png?raw=true"/>
   </a>
