@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     <img height="50" width="50" src="https://github.com/vveewwee/logos/blob/main/vim.png?raw=true"/>
   </a>
   <a href="https://code.visualstudio.com/">
-    <img height="50" width="100" src="https://github.com/samoyla/logos/blob/main/vscode.png?raw=true"/>
+    <img height="50" width="100" src="https://github.com/samoyla/logos/blob/main/logo.png?raw=true"/>
   </a>
 
 
