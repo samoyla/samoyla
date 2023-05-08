@@ -38,7 +38,7 @@ Here are some ideas to get you started:
     <img height="50" width="70" src="https://imgs.search.brave.com/KVaY1h8nB1q1S-Pz-8wJQceCuqqM063bURVw6hetBRc/rs:fit:480:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5B/T1lzRU1yd3dlc1JZ/QUdiV202YUpBRXNE/SCZwaWQ9QXBp"/>
   </a>
    <a href="https://www.linux.org/">
-    <img height="50" width="50" src="https://imgs.search.brave.com/lCVWAq46eyUw72NTK96IjacM_SATIW2oc4w_rPeLm1c/rs:fit:250:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC52/cGtVNUxLUlV3UVZi/M1U3N3RwczdRQUFB/QSZwaWQ9QXBp"/>
+    <img height="50" width="50" src="[https://imgs.search.brave.com/lCVWAq46eyUw72NTK96IjacM_SATIW2oc4w_rPeLm1c/rs:fit:250:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC52/cGtVNUxLUlV3UVZi/M1U3N3RwczdRQUFB/QSZwaWQ9QXBp](https://github.com/vveewwee/logos/blob/main/linux.png?raw=true)"/>
   </a>
   
 </div>
