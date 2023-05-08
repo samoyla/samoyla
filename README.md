@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...
 - <a href="https://www.docker.com/">
-    <img height="50" width="100" src="https://imgs.search.brave.com/9fYVxbiDyIaRagV3zEJohLlrZxHztyktmj420AYVCTA/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5P/bzBTOUE5U24tV29R/bXp5Z3RuUkF3SGFF/SyZwaWQ9QXBp"/>
+    <img height="50" width="60" src="https://brandslogos.com/wp-content/uploads/images/docker-logo.png"/>
   </a>
    <a href="https://git-scm.com/">
-    <img height="50" width="50" src="https://imgs.search.brave.com/ed9C8_UNjMsNFBLCx5F5kP-9Ee88HG8MWWHbuOiUz5g/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4z/eGF0SWdMeUhuaV9X/aTZtRTVPN2tnSGFI/YSZwaWQ9QXBp"/>
+    <img height="50" width="50" src="https://git-scm.com/images/logos/logomark-white@2x.png"/>
   </a>
    <a href="https://dev.java/learn/getting-started/">
     <img height="50" width="70" src="https://imgs.search.brave.com/KVaY1h8nB1q1S-Pz-8wJQceCuqqM063bURVw6hetBRc/rs:fit:480:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5B/T1lzRU1yd3dlc1JZ/QUdiV202YUpBRXNE/SCZwaWQ9QXBp"/>
