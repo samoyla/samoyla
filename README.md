@@ -35,7 +35,7 @@ Here are some ideas to get you started:
     <img height="50" width="60" src="https://brandslogos.com/wp-content/uploads/images/docker-logo.png"/>
   </a>
    <a href="https://git-scm.com/">
-    <img height="50" width="50" src="https://git-scm.com/images/logos/logomark-white@2x.png"/>
+    <img height="50" width="50" src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png"/>
   </a>
    <a href="https://dev.java/learn/getting-started/">
     <img height="50" width="70" src="https://imgs.search.brave.com/KVaY1h8nB1q1S-Pz-8wJQceCuqqM063bURVw6hetBRc/rs:fit:480:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5B/T1lzRU1yd3dlc1JZ/QUdiV202YUpBRXNE/SCZwaWQ9QXBp"/>
