@@ -44,7 +44,7 @@ Here are some ideas to get you started:
     <img height="50" width="50" src="https://github.com/vveewwee/logos/blob/main/linux.png?raw=true"/>
   </a>
   <a href="https://www.spring.io/projects/spring-boot">
-    <img height="50" width="50" src="https://github.com/vveewwee/logos/blob/main/linux.png?raw=true"/>
+    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/Spring_Boot.png?raw=true"/>
   </a>
   
 </div>
