@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h3> ⚡ What I've learned so far...</h3>
+⚡<h3>  What I've learned so far...</h3>
 <!--
 **samoyla/samoyla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<h3> 🌱 I’m currently learning ...</h3>
+🌱<h3>  I’m currently learning ...</h3>
 <div>
   <a href="https://www.docker.com/">
     <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/docker.svg?raw=true""/>
