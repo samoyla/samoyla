@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+⚡ What I've learned so far...
 <!--
 **samoyla/samoyla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,6 +27,9 @@ Here are some ideas to get you started:
   </a>
   <a href="https://code.visualstudio.com/">
     <img height="70" width="70" src="https://github.com/samoyla/logos/blob/main/logo.png?raw=true"/>
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img height="70" width="70" src="https://github.com/samoyla/logos/blob/main/debian.png?raw=true"/>
   </a>
 
 
