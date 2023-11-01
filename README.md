@@ -17,19 +17,19 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://cplusplus.com/">
-    <img height="50" width="50" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo.png"/>
+    <img height="50" width="50" src="https://brandslogos.com/wp-content/uploads/images/large/cplusplus.svg"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img height="60" width="60" src="https://github.com/samoyla/logos/blob/main/c.png?raw=true"/>
+    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/c.svg?raw=true"/>
   </a>
   <a href="https://www.vim.org/">
-    <img height="50" width="50" src="https://github.com/vveewwee/logos/blob/main/vim.png?raw=true"/>
+    <img height="50" width="50" src="https://github.com/vveewwee/logos/blob/main/vim.svg?raw=true"/>
   </a>
   <a href="https://code.visualstudio.com/">
-    <img height="70" width="70" src="https://github.com/samoyla/logos/blob/main/logo.png?raw=true"/>
+    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/visualstudiocode.svg?raw=true"/>
   </a>
   <a href="https://code.visualstudio.com/">
-    <img height="70" width="70" src="https://github.com/samoyla/logos/blob/main/debian.svg?raw=true"/>
+    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/debian.svg?raw=true"/>
   </a>
 
 
