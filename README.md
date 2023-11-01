@@ -1,5 +1,5 @@
 ### Hi there 👋
-⚡ What I've learned so far...
+⚡ <h3>What I've learned so far...</h3>
 <!--
 **samoyla/samoyla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,25 +16,76 @@ Here are some ideas to get you started:
 -->
 
 <div>
+  
+  <div>
+    LANGUAGES:
   <a href="https://cplusplus.com/">
     <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/cplusplus.svg?raw=true""/>
   </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
     <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/c.svg?raw=true"/>
   </a>
+    <a href="https://www.typescriptlang.org/">
+    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/typescript.svg?raw=true"/>
+  </a>
+  </div>
+  
+  <div>
+    IDE:
   <a href="https://www.vim.org/">
     <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/vim.svg?raw=true""/>
   </a>
   <a href="https://code.visualstudio.com/">
     <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/visualstudiocode.svg?raw=true"/>
   </a>
-  <a href="https://code.visualstudio.com/">
+  </div>
+  
+  <div>
+    OS AND SYSTEMS:
+   <a href="https://www.debian.org/">
     <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/debian.svg?raw=true"/>
   </a>
+     <a href="https://ubuntu.com/">
+    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/ubuntu.svg?raw=true"/>
+  </a>
+     <a href="https://www.microsoft.com/fr-fr/software-download/windows11">
+    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/windows11.svg?raw=true"/>
+  </a>
+  </div>
+  
+  <div>
+    DB:
+    <a href="https://mariadb.org/">
+    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/mariadb.svg?raw=true"/>
+  </a>
+    <a href="https://www.postgresql.org/">
+    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/postgresql.svg?raw=true"/>
+  </a>
+  </div>
+
+  <div>
+    WEB:
+     <a href="https://code.visualstudio.com/">
+    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/nestjs.svg?raw=true"/>
+  </a>
+     <a href="https://code.visualstudio.com/">
+    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/react.svg?raw=true"/>
+  </a>
+     <a href="https://code.visualstudio.com/">
+    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/socketdotio.svg?raw=true"/>
+  </a>
+     <a href="https://code.visualstudio.com/">
+    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/prisma.svg?raw=true"/>
+  </a>
+     <a href="https://code.visualstudio.com/">
+    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/insomnia.svg?raw=true"/>
+  </a>
+  </div>
+  
 </div>
 
 
-🌱 I’m currently learning ...
+🌱 <h3>I’m currently learning ...</h3>
 <div>
   <a href="https://www.docker.com/">
     <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/docker.svg?raw=true""/>
@@ -50,6 +101,12 @@ Here are some ideas to get you started:
   </a>
   <a href="https://www.spring.io/projects/spring-boot">
     <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/Spring_Boot.png?raw=true"/>
+  </a>
+   <a href="https://www.spring.io/projects/spring-boot">
+    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/springboot.svg?raw=true"/>
+  </a>
+   <a href="https://www.jetbrains.com/idea/">
+    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/intellijidea.svg?raw=true"/>
   </a>
   
 </div>
