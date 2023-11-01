@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     <img height="70" width="70" src="https://github.com/samoyla/logos/blob/main/logo.png?raw=true"/>
   </a>
   <a href="https://code.visualstudio.com/">
-    <img height="70" width="70" src="https://github.com/samoyla/logos/blob/main/debian.png?raw=true"/>
+    <img height="70" width="70" src="https://github.com/samoyla/logos/blob/main/debian.svg?raw=true"/>
   </a>
 
 
