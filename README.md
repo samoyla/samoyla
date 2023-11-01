@@ -99,7 +99,7 @@ Here are some ideas to get you started:
    <a href="https://www.linux.org/">
     <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/linux.svg?raw=true""/>
   </a>
-  <a href="https://www.spring.io/projects/spring-boot">
+  <a href="https://spring.io/">
     <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/Spring_Boot.png?raw=true"/>
   </a>
    <a href="https://www.spring.io/projects/spring-boot">
