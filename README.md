@@ -65,19 +65,19 @@ Here are some ideas to get you started:
 
   <div>
     WEB:
-     <a href="https://code.visualstudio.com/">
+     <a href="https://nestjs.com/">
     <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/nestjs.svg?raw=true"/>
   </a>
-     <a href="https://code.visualstudio.com/">
+     <a href="https://react.dev/">
     <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/react.svg?raw=true"/>
   </a>
-     <a href="https://code.visualstudio.com/">
+     <a href="https://socket.io/fr/">
     <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/socketdotio.svg?raw=true"/>
   </a>
-     <a href="https://code.visualstudio.com/">
+     <a href="https://www.prisma.io/">
     <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/prisma.svg?raw=true"/>
   </a>
-     <a href="https://code.visualstudio.com/">
+     <a href="https://insomnia.rest/">
     <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/insomnia.svg?raw=true"/>
   </a>
   </div>
