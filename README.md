@@ -33,8 +33,8 @@ Here are some ideas to get you started:
   </a>
 
 
-- 🌱 I’m currently learning ...
-- <a href="https://www.docker.com/">
+🌱 I’m currently learning ...
+  <a href="https://www.docker.com/">
     <img height="50" width="60" src="https://brandslogos.com/wp-content/uploads/images/docker-logo.png"/>
   </a>
    <a href="https://git-scm.com/">
