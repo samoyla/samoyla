@@ -100,7 +100,7 @@ Here are some ideas to get you started:
     <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/linux.svg?raw=true""/>
   </a>
   <a href="https://spring.io/">
-    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/Spring_Boot.png?raw=true"/>
+    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/spring.svg?raw=true"/>
   </a>
    <a href="https://www.spring.io/projects/spring-boot">
     <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/springboot.svg?raw=true"/>
