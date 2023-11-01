@@ -110,3 +110,11 @@ Here are some ideas to get you started:
   </a>
   
 </div>
+
+<div>
+<h3>My Linkedin</h3>
+<a href="https://www.linkedin.com/in/maryna-samoilenko-9a44331b2/">
+    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/linkedin.svg?raw=true""/>
+  </a>
+  
+</div>
