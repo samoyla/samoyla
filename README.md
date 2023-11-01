@@ -94,7 +94,7 @@ Here are some ideas to get you started:
     <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/git.svg?raw=true""/>
   </a>
    <a href="https://dev.java/learn/getting-started/">
-    <img height="50" width="70" src="https://brandslogos.com/wp-content/uploads/images/java-logo-1.png"/>
+    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main//java.png?rwa=true"/>
   </a>
    <a href="https://www.linux.org/">
     <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/linux.svg?raw=true""/>
