@@ -55,9 +55,9 @@ Here are some ideas to get you started:
   
   <div>
     DB:
-    <a href="https://mariadb.org/">
+<!--     <a href="https://mariadb.org/">
     <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/mariadb.svg?raw=true"/>
-  </a>
+  </a> -->
     <a href="https://www.postgresql.org/">
     <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/postgresql.svg?raw=true"/>
   </a>
