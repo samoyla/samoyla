@@ -28,7 +28,12 @@ Here are some ideas to get you started:
     <a href="https://www.typescriptlang.org/">
     <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/typescript.svg?raw=true"/>
   </a>
-  </div>
+<!--   </div>
+   </a>
+    <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">
+    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/typescript.svg?raw=true"/>
+  </a>
+  </div> -->
   
   <div>
     IDE:
