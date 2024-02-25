@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Your GIF Banner](https://i.pinimg.com/564x/dc/fc/b2/dcfcb20647029a7b4c2b8e51c38c30eb.jpg)
+![Your GIF Banner](https://i.pinimg.com/564x/f3/94/79/f394794f30727a276091d7e870482587.jpg)
 
 My skills:
  	![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
