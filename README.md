@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Your GIF Banner](https://i.pinimg.com/564x/dc/fc/b2/dcfcb20647029a7b4c2b8e51c38c30eb.jpg)
+
 My skills:
  	![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -46,6 +48,8 @@ Currently learning:
 <h3>My Linkedin</h3>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryna-samoilenko-9a44331b2/)
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=samoyla)](https://github.com/anuraghazra/github-readme-stats)
 
   
 
