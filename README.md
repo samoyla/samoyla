@@ -46,4 +46,4 @@ My Linkedin
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryna-samoilenko-9a44331b2/)
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=samoyla)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samoyla&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
