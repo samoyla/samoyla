@@ -1,125 +1,51 @@
 ### Hi there 👋
-⚡<h3>  What I've learned so far...</h3>
-<!--
-**samoyla/samoyla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My skills:
+ 	![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-Here are some ideas to get you started:
+  ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-<div>
-  
-  <div>
-    LANGUAGES:
-  <a href="https://cplusplus.com/">
-    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/cplusplus.svg?raw=true""/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/c.svg?raw=true"/>
-  </a>
-    <a href="https://www.typescriptlang.org/">
-    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/typescript.svg?raw=true"/>
-  </a>
-<!--   </div>
-   </a>
-    <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">
-    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/typescript.svg?raw=true"/>
-  </a>
-  </div> -->
-  
-  <div>
-    IDE:
-  <a href="https://www.vim.org/">
-    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/vim.svg?raw=true""/>
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/visualstudiocode.svg?raw=true"/>
-  </a>
-  </div>
-  
-  <div>
-    OS AND SYSTEMS:
-   <a href="https://www.debian.org/">
-    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/debian.svg?raw=true"/>
-  </a>
-     <a href="https://ubuntu.com/">
-    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/ubuntu.svg?raw=true"/>
-  </a>
-     <a href="https://www.microsoft.com/fr-fr/software-download/windows11">
-    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/windows11.svg?raw=true"/>
-  </a>
-  </div>
-  
-  <div>
-    DB:
-<!--     <a href="https://mariadb.org/">
-    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/mariadb.svg?raw=true"/>
-  </a> -->
-    <a href="https://www.postgresql.org/">
-    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/postgresql.svg?raw=true"/>
-  </a>
-  </div>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-  <div>
-    WEB:
-     <a href="https://nestjs.com/">
-    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/nestjs.svg?raw=true"/>
-  </a>
-     <a href="https://react.dev/">
-    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/react.svg?raw=true"/>
-  </a>
-     <a href="https://socket.io/fr/">
-    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/socketdotio.svg?raw=true"/>
-  </a>
-     <a href="https://www.prisma.io/">
-    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/prisma.svg?raw=true"/>
-  </a>
-     <a href="https://insomnia.rest/">
-    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/insomnia.svg?raw=true"/>
-  </a>
-  </div>
-  
-</div>
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
+Familiar with:
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 
-🌱<h3>  I’m currently learning ...</h3>
-<div>
-  <a href="https://www.docker.com/">
-    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/docker.svg?raw=true""/>
-  </a>
-   <a href="https://git-scm.com/">
-    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/git.svg?raw=true""/>
-  </a>
-   <a href="https://dev.java/learn/getting-started/">
-    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main//java.png?rwa=true"/>
-  </a>
-   <a href="https://www.linux.org/">
-    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/linux.svg?raw=true""/>
-  </a>
-  <a href="https://spring.io/">
-    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/spring.svg?raw=true"/>
-  </a>
-   <a href="https://www.spring.io/projects/spring-boot">
-    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/springboot.svg?raw=true"/>
-  </a>
-   <a href="https://www.jetbrains.com/idea/">
-    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/intellijidea.svg?raw=true"/>
-  </a>
-  
-</div>
+Currently learning:
 
-<div>
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+
+
 <h3>My Linkedin</h3>
-<a href="https://www.linkedin.com/in/maryna-samoilenko-9a44331b2/">
-    <img height="50" width="50" src="https://github.com/samoyla/logos/blob/main/linkedin.svg?raw=true""/>
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryna-samoilenko-9a44331b2/)
+
   
-</div>
+
